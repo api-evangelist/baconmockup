@@ -1,0 +1,32 @@
+aid: baconmockup
+name: BaconMockup
+description: "Resizable bacon placeholder images"
+url: https://baconmockup.com/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Food & Drink"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Food And Drink
+  - Public APIs
+apis:
+  - name: BaconMockup
+    description: "Resizable bacon placeholder images"
+    humanURL: https://baconmockup.com/
+    baseURL: https://baconmockup.com/
+    tags:
+      - Food And Drink
+    properties:
+      - type: Documentation
+        url: https://baconmockup.com/
+common:
+  - type: Website
+    url: https://baconmockup.com/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
